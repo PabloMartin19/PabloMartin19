@@ -34,5 +34,5 @@ Here are some technologies and tools I work with:
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [Pablo Martin](https://www.linkedin.com/in/pablomartinhidalgo/)
+- **LinkedIn**: [Pablo Martin](https://www.linkedin.com/in/pablo-mart%C3%ADn-hidalgo/)
 - **Email**: pmartinhidalgo19@gmail.com
